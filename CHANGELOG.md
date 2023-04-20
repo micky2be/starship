@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.15.0](https://github.com/starship/starship/compare/v1.14.2...v1.15.0) (2023-04-20)
+
+
+### Features
+
+* Add Solidity Module ([#5047](https://github.com/starship/starship/issues/5047)) ([b2ebd5b](https://github.com/starship/starship/commit/b2ebd5b50c62fe5eb1cf8f5b0f79deaff2edd059))
+* add typechange to git_status module ([#4829](https://github.com/starship/starship/issues/4829)) ([edb96ca](https://github.com/starship/starship/commit/edb96cad580e5c414c34a4f64476a64a20595459))
+* **azure:** subscription name aliases ([#4949](https://github.com/starship/starship/issues/4949)) ([27ffa37](https://github.com/starship/starship/commit/27ffa37cfdf2eff9874e543f88fa389bf5c2dae3))
+* **git_metrics:** add option to ignore submodules ([#5052](https://github.com/starship/starship/issues/5052)) ([ce01423](https://github.com/starship/starship/commit/ce014231521c981260ff7c1018acf694c65c97fe))
+
+
+### Bug Fixes
+
+* **config:** Make print-config not panic without a config ([#5001](https://github.com/starship/starship/issues/5001)) ([ce7f984](https://github.com/starship/starship/commit/ce7f984932a97b4ad3cd6e6ece8e1c3b6022ba99))
+
 ## [1.14.2](https://github.com/starship/starship/compare/v1.14.1...v1.14.2) (2023-04-12)
 
 
